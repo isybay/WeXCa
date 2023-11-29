@@ -1,2 +1,2 @@
 # WeXCa
-This is a Water-Exergy-Carbon Nexus 
+This is the Water-Exergy-Carbon Nexus repository.
